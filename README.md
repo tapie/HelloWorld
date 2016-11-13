@@ -1,2 +1,0 @@
-# HelloWorld
-Entrega_EdwinTapie
